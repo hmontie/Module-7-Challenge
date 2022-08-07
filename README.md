@@ -19,6 +19,10 @@ The data is gathered in six CSV files and the analysis is performed using relati
 # Results
 1. The list of retiring employees
 
+
+![ret_titles](https://user-images.githubusercontent.com/107443962/183271069-ef92ad10-3749-4bff-ad2a-b5458356fbeb.png)
+
+
 - The table includes employee number, first name, last name, title, from-date and to-date.
 - The query returns 133,776 rows.
 - The table displays a list of employees who is going to retire in the next few years.
@@ -33,11 +37,15 @@ The data is gathered in six CSV files and the analysis is performed using relati
 
 3. The number of retiring employees grouped by title
 
+![Unique_titles](https://user-images.githubusercontent.com/107443962/183271111-b23b4a36-a082-4ee0-81e6-20e863a74f93.png)
+
 - The table includes employees’ titles and their sum.
 - The query returns a cohesive table with 7 rows.
 - From this table we can quickly see how many employees with certain title will retire in the next few years.
 
 4. The employees eligible for the mentorship program
+
+![mentorship](https://user-images.githubusercontent.com/107443962/183271121-db1a91a1-d1de-49ca-bd21-788c640f3793.png)
 
 - The table contains employee number, first name, last name, birth date, from date, to date and title.
 - The query returns 1,549 rows.
